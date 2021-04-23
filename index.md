@@ -111,9 +111,15 @@
             </ul> -->
             <div class="container">
                 <div class="row align-items-center justify-content-center justify-content-lg-between">
+                    <div class="col-lg-6 col-md-12 col-sm-12">
+                        <div class="header_hero_image mt-50 wow fadeInRightBig" data-wow-duration="1.3s" data-wow-delay="1.8s" style="text-align: center;">
+                            <img src="assets/images/phone.png" alt="hero" style="max-width:70%; height: auto;">
+                        </div> <!-- header hero image -->
+                    </div>
+
                     <div class="col-lg-6 col-sm-12 col-xs-12">
                         <div class="header_hero_content mt-45">
-                            <h2 class="header_title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.5s">Where Cash Flows.</h2>                            
+                            <h2 class="header_title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.5s">Where Cash Flows &#8646;</h2>                            
                         </div> <!-- header hero content -->
 
                         <div class="single_service mt-30" data-wow-duration="1.3s" data-wow-delay="0.2s">
@@ -127,15 +133,9 @@
                         </div> <!-- single service -->
 
                         <div class="header_hero_content mt-45" style="text-align: center;">
-                            <a href="#" rel="nofollow" class="main-btn wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="1.4s">Join Waitlist</a>
+                            <a href="#" rel="nofollow" class="main-btn wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="1.4s" style="background-color: #000; color: #fff;">Join Waitlist</a>
                         </div> <!-- header hero content -->
                     </div>                    
-
-                    <div class="col-lg-6 col-md-12 col-sm-12">
-                        <div class="header_hero_image mt-50 wow fadeInRightBig" data-wow-duration="1.3s" data-wow-delay="1.8s" style="text-align: center;">
-                            <img src="assets/images/phone.png" alt="hero" style="max-width:70%; height: auto;">
-                        </div> <!-- header hero image -->
-                    </div>
                 </div> <!-- row -->
             
             </div> <!-- container -->
