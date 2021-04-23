@@ -68,14 +68,14 @@
                             <a class="navbar-brand" href="index.html">
                                 <img src="assets/images/logo.svg" alt="Logo">
                             </a>
-                            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                            <!-- <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                                 <span class="toggler-icon"></span>
                                 <span class="toggler-icon"></span>
                                 <span class="toggler-icon"></span>
-                            </button>
+                            </button> -->
 
-                            <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
-                                <ul id="nav" class="navbar-nav ml-auto">
+                            <!-- <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent"> -->
+                                <!-- <ul id="nav" class="navbar-nav ml-auto"> -->
                                     <!-- <li class="nav-item active">
                                         <a class="page-scroll" href="#home">Home<span></span></a>
                                     </li>
@@ -94,8 +94,8 @@
                                     <li class="nav-item">
                                         <a class="page-scroll" href="#work">Experience<span></span></a>
                                     </li> -->
-                                </ul>
-                            </div> <!-- navbar collapse -->
+                                <!-- </ul> -->
+                            <!-- </div> navbar collapse -->
                         </nav> <!-- navbar -->
                     </div>
                 </div> <!-- row -->
@@ -111,7 +111,7 @@
             </ul> -->
             <div class="container">
                 <div class="row align-items-center justify-content-center justify-content-lg-between">
-                    <div class="col-lg-6 col-sm-6 col-xs-12">
+                    <div class="col-lg-6 col-sm-12 col-xs-12">
                         <div class="header_hero_content mt-45">
                             <h2 class="header_title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.5s">Where Cash Flows.</h2>                            
                         </div> <!-- header hero content -->
@@ -125,18 +125,31 @@
                             <h4 class="service_title" style="color: #47d744">Investors</h4>
                             <p>Make your money grow with short term, low-risk business investments. Anyone can invest!</p>
                         </div> <!-- single service -->
-
-                        <div class="header_hero_content mt-45">
-                            <a href="https://rebrand.ly/freelancer-ud" rel="nofollow" class="main-btn wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="1.4s">Join Waitlist</a>
-                        </div> <!-- header hero content -->
                     </div>                    
 
-                    <div class="col-lg-6 col-md-6 col-sm-7">
-                        <div class="header_hero_image mt-50 wow fadeInRightBig" data-wow-duration="1.3s" data-wow-delay="1.8s">
+                    <div class="col-lg-6 col-md-12 col-sm-12">
+                        <div class="header_hero_image mt-50 wow fadeInRightBig" data-wow-duration="1.3s" data-wow-delay="1.8s" style="text-align: center;">
                             <img src="assets/images/phone.png" alt="hero" style="max-width:70%; height: auto;">
                         </div> <!-- header hero image -->
                     </div>
                 </div> <!-- row -->
+
+                <div class="row align-items-center justify-content-center justify-content-lg-between">
+                    <div class="col-lg-6 col-sm-12 col-xs-12">
+                        <div class="header_hero_content mt-45" style="text-align: center;">
+                            <a href="#" rel="nofollow" class="main-btn wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="1.4s">Join Waitlist</a>
+                        </div> <!-- header hero content -->
+                    </div>
+                </div> <!-- row -->
+
+                <div class="row align-items-center justify-content-center justify-content-lg-between">
+                    <div class="col-lg-6 col-sm-12 col-xs-12">
+                        <div class="header_hero_content mt-45" style="text-align: center;">
+                        </div> <!-- header hero content empty for padding -->
+                    </div>
+                </div> <!-- row -->
+            
+            
             </div> <!-- container -->
             <div class="header_hero_shape d-none d-lg-block"></div> <!-- header hero shape -->
         </div> <!-- header hero -->
