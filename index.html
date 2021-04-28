@@ -136,7 +136,7 @@
                         </div> <!-- single service -->
 
                         <div class="header_hero_content mt-45" style="text-align: center;">
-                            <a href="#" rel="nofollow" class="main-btn wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="1.4s" style="background-color: #000; color: #fff;">Join Waitlist</a>
+                            <a href="https://qtrial2019q4az1.az1.qualtrics.com/jfe/form/SV_8icwFbiTz5qcJXE" rel="nofollow" class="main-btn wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="1.4s" style="background-color: #000; color: #fff;">Join Waitlist</a>
                         </div> <!-- header hero content -->
                         <br><br>
                     </div>                    
