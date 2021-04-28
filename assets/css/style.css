@@ -814,16 +814,16 @@ p {
     .header_hero_content .header_sub_title {
       font-size: 30px; } }
 .header_hero_content .header_title {
-  font-size: 40px;
+  font-size: 50px;
   font-weight: 700;
   color: #000000;
   margin-top: 20px; }
   @media (max-width: 767px) {
     .header_hero_content .header_title {
-      font-size: 24px; } }
+      font-size: 40px; } }
   @media only screen and (min-width: 576px) and (max-width: 767px) {
     .header_hero_content .header_title {
-      font-size: 30px; } }
+      font-size: 40px; } }
 .header_hero_content span {
   font-size: 18px;
   font-weight: 500;

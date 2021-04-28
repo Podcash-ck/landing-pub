@@ -119,17 +119,20 @@
 
                     <div class="col-lg-6 col-sm-12 col-xs-12">
                         <div class="header_hero_content mt-45">
-                            <h2 class="header_title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.5s">Where Cash Flows &#8646;</h2>                            
+                            <h4 class="service_title">Out with traditional savings,</h4>
+                            <!-- <h2 class="header_title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.5s">Out with Savings,</h2>                             -->
+                            <h1 class="header_title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.5s">In with Pods</h1>                            
                         </div> <!-- header hero content -->
 
-                        <div class="single_service mt-30" data-wow-duration="1.3s" data-wow-delay="0.2s">
-                            <h4 class="service_title" style="color: #47d744">Businesses</h4>
-                            <p>Scale your business.  Get capital on <i>your</i> own terms. </p>
-                        </div> <!-- single service -->
-
                         <div class="single_service mt-30" data-wow-duration="1.3s" data-wow-delay="0.5s">
-                            <h4 class="service_title" style="color: #47d744">Investors</h4>
-                            <p>Make your money grow with short term, low-risk business investments. Anyone can invest!</p>
+                            <h4 class="service_title" style="color: #47d744">For Everyone</h4>
+                            <!-- <p>Actively grow your savings. Create a Pod Account and get access to short term, low-risk business deals with competitive profits!</p> -->
+                            <p>Secure your savings while actively growing them! Create a Pod Account and get access to short term, low-risk business deals to grow your money.</p>
+                        </div> <!-- single service -->
+                        
+                        <div class="single_service mt-30" data-wow-duration="1.3s" data-wow-delay="0.2s">
+                            <h4 class="service_title" style="color: #47d744">For Businesses</h4>
+                            <p>Scale your business!  Get capital from real people when you need it, however you need it. </p>
                         </div> <!-- single service -->
 
                         <div class="header_hero_content mt-45" style="text-align: center;">
@@ -187,4 +190,3 @@
 </body>
 
 </html>
- 
